@@ -1,5 +1,5 @@
 # Witness AI - by [@gpravin1234](https://www.instagram.com/gpravin1234) @indian_car_designers
-Under Development
+
 This application uses ControlNet and Stable Diffusion to transform sketches into rendered images.
 
 ## Requirements
