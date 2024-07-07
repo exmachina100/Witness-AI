@@ -1,5 +1,5 @@
-# Sketch to Render Application
-
+# Sketch to Render Application for Car Designers by @gpravin1234 @indian_car_designers
+Under Development
 This application uses ControlNet and Stable Diffusion to transform sketches into rendered images.
 
 ## Requirements
